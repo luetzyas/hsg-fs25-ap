@@ -2,7 +2,8 @@
   //E1
   average(List(1, 2, 3, 4, 5, 10, 200))
   //E2
-  isPalindrome("Racecar")
+  isPalindrome("Test")
+  isPalindrome("Never odd or even")
   //E3
   menu()
 
