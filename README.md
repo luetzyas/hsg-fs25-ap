@@ -41,7 +41,8 @@ HSG Fallsemester 2025 Course **Advanced Programming**.
 2. add /bin folder to PATH
 3. create new project from template
 ```scala 
-sbt new scala/hello-world.g8 
+sbt new scala/hello-world.g8
+sbt new scala/scala3.g8
 ```
 
 [Ex 1](): Write a program that receives a list of numbers as input, computes the average of the numbers and prints it on the screen
