@@ -1,3 +1,19 @@
+error id: file:///D:/HSG/hsg-fs25-ap/scala/gettingstarted_exercises/src/main/scala/Main.scala:scala/io/StdIn#readInt().
+file:///D:/HSG/hsg-fs25-ap/scala/gettingstarted_exercises/src/main/scala/Main.scala
+empty definition using pc, found symbol in pc: scala/io/StdIn#readInt().
+empty definition using semanticdb
+empty definition using fallback
+non-local guesses:
+	 -scala/io/StdIn.readInt.
+	 -scala/io/StdIn.readInt#
+	 -scala/io/StdIn.readInt().
+	 -scala/Predef.scala.io.StdIn.readInt.
+	 -scala/Predef.scala.io.StdIn.readInt#
+	 -scala/Predef.scala.io.StdIn.readInt().
+offset: 1012
+uri: file:///D:/HSG/hsg-fs25-ap/scala/gettingstarted_exercises/src/main/scala/Main.scala
+text:
+```scala
 @main def hello(): Unit =
   average(List(1, 2, 3, 4, 5))
   //isPalindrome("Racecar")
@@ -25,7 +41,7 @@ def menu(): Unit =
     println("2 - Multiply numbers")
     println("3 - Exit")
     print("Enter your choice: ")
-    choice = scala.io.StdIn.readInt()
+    choice = scala.io.StdIn.readInt@@()
     choice match
       case 1 =>
         print("Enter numbers to sum (space-separated): ")
@@ -37,3 +53,9 @@ def menu(): Unit =
         println(s"Product: ${numbers.product}")
       case 3 => println("Exiting...")
       case _ => println("Invalid choice, please try again.")
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: scala/io/StdIn#readInt().
