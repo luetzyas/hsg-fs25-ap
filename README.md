@@ -37,7 +37,21 @@ HSG Fallsemester 2025 Course **Advanced Programming**.
 ### 2.3 Scala >> [Files](./scala) <a id="23-scala"></a>
 [Scala 3](https://docs.scala-lang.org/scala3/book/introduction.html), [Getting Started](https://docs.scala-lang.org/getting-started/index.html)
 
+1. download https://www.scala-sbt.org/download/#sdkman
+2. add /bin folder to PATH
+3. create new project from template
+```scala 
+sbt new scala/hello-world.g8 
+```
 
+[Ex 1](): Write a program that receives a list of numbers as input, computes the average of the numbers and prints it on the screen
+
+[Ex 2](): Write a program that checks if a string is a palindrome, i.e., it is the same if you read it left to right and right to left.
+
+[Ex 3](): Write a program that displays a textual menu to the user: </br>
+1 – Sum numbers </br>
+2 – Multiply numbers </br>
+3 – Exit
 
 ### 2.4 Kotlin >> [Files](./kotlin) <a id="24-kotlin"></a>
 
