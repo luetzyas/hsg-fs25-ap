@@ -1,0 +1,483 @@
+2025.09.24 12:18:45 INFO  Started: Metals version 1.6.2 in folders 'D:\HSG\hsg-fs25-ap\scala\learning-scala' for client Visual Studio Code 1.104.1.
+2025.09.24 12:18:58 INFO  running 'C:\Program Files\Java\jdk-17\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\yluet\AppData\Local\Temp\metals5135513848608685104\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2025.09.24 12:18:59 ERROR [info] [launcher] getting org.scala-sbt sbt 1.9.8  (this may take some time)...
+2025.09.24 12:19:06 ERROR [info] [launcher] getting Scala 2.12.18 (for sbt)...
+2025.09.24 12:19:08 INFO  [info] welcome to sbt 1.9.8 (Oracle Corporation Java 17.0.8)
+2025.09.24 12:19:11 INFO  [info] loading settings for project learning-scala-build-build from metals.sbt ...
+2025.09.24 12:19:12 INFO  [info] loading project definition from D:\HSG\hsg-fs25-ap\scala\learning-scala\project\project
+2025.09.24 12:19:15 INFO  [info] loading settings for project learning-scala-build from metals.sbt ...
+2025.09.24 12:19:15 INFO  [info] loading project definition from D:\HSG\hsg-fs25-ap\scala\learning-scala\project
+2025.09.24 12:19:20 INFO  [success] Generated .bloop\learning-scala-build.json
+2025.09.24 12:19:20 INFO  [success] Total time: 4 s, completed 24.09.2025, 12:19:20
+2025.09.24 12:19:22 INFO  [info] loading settings for project root from build.sbt ...
+2025.09.24 12:19:22 INFO  [info] set current project to learning-scala (in build file:/D:/HSG/hsg-fs25-ap/scala/learning-scala/)
+2025.09.24 12:19:28 INFO  [warn] scala3-library_3-3.3.1-sources.jar no longer exists at \Users\jahrimgabriele.cesario\Library\Caches\Coursier\v1\https\repo1.maven.org\maven2\org\scala-lang\scala3-library_3\3.3.1\scala3-library_3-3.3.1-sources.jar
+2025.09.24 12:19:29 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\BinaryTree.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.24 12:19:29 WARN  no build target for: D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\BinaryTree.scala
+2025.09.24 12:19:29 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\BinaryTree.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.24 12:19:29 INFO  [success] Generated .bloop\root-test.json
+2025.09.24 12:19:29 INFO  [success] Generated .bloop\root.json
+2025.09.24 12:19:29 INFO  [success] Total time: 7 s, completed 24.09.2025, 12:19:29
+2025.09.24 12:19:29 INFO  time: ran 'sbt bloopInstall' in 31s
+2025.09.24 12:19:30 INFO  running 'C:\Program Files\Java\jdk-17\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\yluet\AppData\Local\Temp\metals2032051820244260666\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2025.09.24 12:19:30 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\BinaryTree.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.24 12:19:32 INFO  [info] welcome to sbt 1.9.8 (Oracle Corporation Java 17.0.8)
+2025.09.24 12:19:32 INFO  time: code lens generation in 2.28s
+2025.09.24 12:19:33 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\BinaryTree.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.24 12:19:33 INFO  [info] loading settings for project learning-scala-build-build from metals.sbt ...
+2025.09.24 12:19:35 INFO  [info] loading project definition from D:\HSG\hsg-fs25-ap\scala\learning-scala\project\project
+2025.09.24 12:19:36 INFO  [info] loading settings for project learning-scala-build from metals.sbt ...
+2025.09.24 12:19:36 INFO  [info] loading project definition from D:\HSG\hsg-fs25-ap\scala\learning-scala\project
+2025.09.24 12:19:38 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\BinaryTree.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.09.24 12:19:39 INFO  [success] Generated .bloop\learning-scala-build.json
+2025.09.24 12:19:39 INFO  [success] Total time: 3 s, completed 24.09.2025, 12:19:40
+2025.09.24 12:19:39 INFO  [info] loading settings for project root from build.sbt ...
+2025.09.24 12:19:39 INFO  [info] set current project to learning-scala (in build file:/D:/HSG/hsg-fs25-ap/scala/learning-scala/)
+2025.09.24 12:19:41 INFO  [success] Generated .bloop\root-test.json
+2025.09.24 12:19:41 INFO  [success] Generated .bloop\root.json
+2025.09.24 12:19:41 INFO  [success] Total time: 1 s, completed 24.09.2025, 12:19:41
+2025.09.24 12:19:41 INFO  time: ran 'sbt bloopInstall' in 11s
+2025.09.24 12:19:41 INFO  Attempting to connect to the build server...
+2025.09.24 12:19:41 INFO  Found a Bloop server running
+2025.09.24 12:19:41 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\HSG\hsg-fs25-ap\scala\learning-scala\.metals\bsp.trace.json or C:\Users\yluet\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.09.24 12:19:41 INFO  Attempting to connect to the build server...
+2025.09.24 12:19:41 INFO  Found a Bloop server running
+2025.09.24 12:19:41 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\HSG\hsg-fs25-ap\scala\learning-scala\project\.metals\bsp.trace.json or C:\Users\yluet\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.09.24 12:19:46 INFO  time: Connected to build server in 5.19s
+2025.09.24 12:19:46 INFO  Connected to Build server: Bloop v2.0.13
+2025.09.24 12:19:46 WARN  3.3.1 is no longer supported in the current Metals versions, using the last known supported version 1.5.1
+2025.09.24 12:19:57 INFO  compiling root (2 scala sources)
+2025.09.24 12:20:00 INFO  time: indexed workspace in 13s
+2025.09.24 12:20:00 INFO  Deduplicating compilation of root from bsp client 'Metals 1.6.2' (since 18.56s)
+2025.09.24 12:20:00 INFO  compiling root (2 scala sources)
+2025.09.24 12:20:01 INFO  time: compiled root in 1.34s
+2025.09.24 12:20:01 INFO  compiling root-test (1 scala source)
+2025.09.24 12:20:01 INFO  time: compiled root-test in 0.72s
+2025.09.24 12:20:39 INFO  compiling root (1 scala source)
+2025.09.24 12:20:39 INFO  time: compiled root in 0.59s
+2025.09.24 12:20:47 INFO  running 'C:\Program Files\Java\jdk-17\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\yluet\AppData\Local\Temp\metals7284571297085958242\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2025.09.24 12:20:49 INFO  [info] welcome to sbt 1.9.8 (Oracle Corporation Java 17.0.8)
+2025.09.24 12:20:49 INFO  [info] loading settings for project learning-scala-build-build from metals.sbt ...
+2025.09.24 12:20:51 INFO  [info] loading project definition from D:\HSG\hsg-fs25-ap\scala\learning-scala\project\project
+2025.09.24 12:20:51 INFO  [info] loading settings for project learning-scala-build from metals.sbt ...
+2025.09.24 12:20:52 INFO  [info] loading project definition from D:\HSG\hsg-fs25-ap\scala\learning-scala\project
+2025.09.24 12:20:55 INFO  [success] Generated .bloop\learning-scala-build.json
+2025.09.24 12:20:55 INFO  [success] Total time: 3 s, completed 24.09.2025, 12:20:55
+2025.09.24 12:20:55 INFO  [info] loading settings for project root from build.sbt ...
+2025.09.24 12:20:55 INFO  [info] set current project to learning-scala (in build file:/D:/HSG/hsg-fs25-ap/scala/learning-scala/)
+2025.09.24 12:20:56 INFO  [success] Generated .bloop\root.json
+2025.09.24 12:20:56 INFO  [success] Generated .bloop\root-test.json
+2025.09.24 12:20:56 INFO  [success] Total time: 0 s, completed 24.09.2025, 12:20:56
+2025.09.24 12:20:56 INFO  time: ran 'sbt bloopInstall' in 8.96s
+2025.09.24 12:20:56 INFO  Disconnecting from Bloop session...
+2025.09.24 12:20:56 INFO  Shut down connection with build server.
+2025.09.24 12:20:56 INFO  Shut down connection with build server.
+2025.09.24 12:20:56 INFO  Attempting to connect to the build server...
+2025.09.24 12:20:56 INFO  Found a Bloop server running
+2025.09.24 12:20:56 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\HSG\hsg-fs25-ap\scala\learning-scala\.metals\bsp.trace.json or C:\Users\yluet\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.09.24 12:20:56 INFO  Attempting to connect to the build server...
+2025.09.24 12:20:56 INFO  Found a Bloop server running
+2025.09.24 12:20:56 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\HSG\hsg-fs25-ap\scala\learning-scala\project\.metals\bsp.trace.json or C:\Users\yluet\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.09.24 12:20:56 INFO  time: Connected to build server in 0.23s
+2025.09.24 12:20:56 INFO  Connected to Build server: Bloop v2.0.13
+2025.09.24 12:20:58 INFO  time: indexed workspace in 1.85s
+Sept. 24, 2025 12:21:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 289
+2025.09.24 12:21:21 INFO  compiling root (1 scala source)
+2025.09.24 12:21:21 INFO  time: compiled root in 0.43s
+Sept. 24, 2025 12:21:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMATION: Unsupported notification method: $/setTrace
+Sept. 24, 2025 12:21:24 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMATION: Unsupported notification method: $/setTrace
+Sept. 24, 2025 12:21:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 367
+2025.09.24 12:21:51 INFO  compiling root (1 scala source)
+2025.09.24 12:21:51 INFO  time: compiled root in 0.42s
+2025.09.24 12:22:38 WARN  Could not load snapshot text for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala
+2025.09.24 12:22:38 WARN  Could not load snapshot text for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala
+2025.09.24 12:22:38 INFO  compiling root (1 scala source)
+2025.09.24 12:22:38 INFO  time: compiled root in 0.41s
+2025.09.24 12:22:41 INFO  compiling root (1 scala source)
+2025.09.24 12:22:41 INFO  time: compiled root in 0.21s
+2025.09.24 12:22:56 INFO  compiling root (1 scala source)
+2025.09.24 12:22:56 INFO  time: compiled root in 0.14s
+2025.09.24 12:23:07 INFO  compiling root (1 scala source)
+2025.09.24 12:23:07 INFO  time: compiled root in 0.13s
+2025.09.24 12:23:10 INFO  compiling root (1 scala source)
+2025.09.24 12:23:10 INFO  time: compiled root in 0.34s
+2025.09.24 12:24:52 INFO  compiling root (1 scala source)
+2025.09.24 12:24:52 INFO  time: compiled root in 0.45s
+2025.09.24 12:24:59 INFO  compiling root (1 scala source)
+2025.09.24 12:24:59 INFO  time: compiled root in 0.28s
+2025.09.24 12:25:25 INFO  compiling root (1 scala source)
+2025.09.24 12:25:25 INFO  time: compiled root in 0.31s
+2025.09.24 12:25:55 INFO  compiling root (1 scala source)
+2025.09.24 12:25:55 INFO  time: compiled root in 0.27s
+Sept. 24, 2025 12:25:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 1399
+Sept. 24, 2025 12:25:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 1401
+Sept. 24, 2025 12:25:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 1402
+Sept. 24, 2025 12:25:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 1403
+Sept. 24, 2025 12:25:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 1406
+Sept. 24, 2025 12:25:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 1407
+Sept. 24, 2025 12:26:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 1408
+Sept. 24, 2025 12:26:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 1409
+Sept. 24, 2025 12:26:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 1411
+Sept. 24, 2025 12:26:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 1412
+Sept. 24, 2025 12:26:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 1414
+Sept. 24, 2025 12:26:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 1415
+Sept. 24, 2025 12:26:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 1416
+Sept. 24, 2025 12:26:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 1417
+Sept. 24, 2025 12:26:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 1418
+2025.09.24 12:27:20 INFO  compiling root (1 scala source)
+2025.09.24 12:27:20 INFO  time: compiled root in 0.31s
+2025.09.24 12:28:08 INFO  compiling root (1 scala source)
+2025.09.24 12:28:08 INFO  time: compiled root in 0.29s
+2025.09.24 12:29:06 INFO  compiling root (1 scala source)
+2025.09.24 12:29:06 INFO  time: compiled root in 0.28s
+2025.09.24 12:29:36 INFO  compiling root (1 scala source)
+2025.09.24 12:29:36 INFO  time: compiled root in 0.22s
+2025.09.24 12:29:44 INFO  compiling root (1 scala source)
+2025.09.24 12:29:44 INFO  time: compiled root in 0.24s
+2025.09.24 12:29:50 INFO  compiling root (1 scala source)
+2025.09.24 12:29:50 INFO  time: compiled root in 0.3s
+2025.09.24 12:30:04 INFO  compiling root (1 scala source)
+2025.09.24 12:30:04 INFO  time: compiled root in 0.25s
+2025.09.24 12:30:10 INFO  compiling root (1 scala source)
+2025.09.24 12:30:10 INFO  time: compiled root in 0.32s
+Sept. 24, 2025 12:30:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 2107
+2025.09.24 12:30:30 INFO  compiling root (1 scala source)
+2025.09.24 12:30:30 INFO  time: compiled root in 0.21s
+Exception in thread "pool-11-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:207)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2025.09.24 12:30:52 INFO  compiling root (1 scala source)
+2025.09.24 12:30:52 INFO  time: compiled root in 0.24s
+2025.09.24 12:31:07 INFO  compiling root (1 scala source)
+2025.09.24 12:31:07 INFO  time: compiled root in 0.26s
+2025.09.24 12:31:40 INFO  compiling root (1 scala source)
+2025.09.24 12:31:40 INFO  time: compiled root in 0.2s
+2025.09.24 12:32:09 INFO  compiling root (1 scala source)
+2025.09.24 12:32:09 INFO  time: compiled root in 0.8s
+2025.09.24 12:32:37 INFO  compiling root (1 scala source)
+2025.09.24 12:32:37 INFO  time: compiled root in 0.28s
+2025.09.24 12:33:21 INFO  compiling root (1 scala source)
+2025.09.24 12:33:21 INFO  time: compiled root in 0.3s
+2025.09.24 12:33:36 INFO  compiling root (1 scala source)
+2025.09.24 12:33:36 INFO  time: compiled root in 0.3s
+2025.09.24 12:34:39 INFO  compiling root (1 scala source)
+2025.09.24 12:34:39 INFO  time: compiled root in 0.4s
+2025.09.24 12:35:00 INFO  compiling root (1 scala source)
+2025.09.24 12:35:00 INFO  time: compiled root in 0.36s
+Sept. 24, 2025 12:35:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 2959
+2025.09.24 12:36:23 INFO  compiling root (1 scala source)
+2025.09.24 12:36:23 INFO  time: compiled root in 0.14s
+2025.09.24 12:36:25 INFO  compiling root (1 scala source)
+2025.09.24 12:36:25 INFO  time: compiled root in 0.33s
+Sept. 24, 2025 12:36:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 3282
+2025.09.24 12:36:34 INFO  compiling root (1 scala source)
+2025.09.24 12:36:34 INFO  time: compiled root in 0.15s
+2025.09.24 12:36:43 INFO  compiling root (1 scala source)
+2025.09.24 12:36:43 INFO  time: compiled root in 0.24s
+2025.09.24 12:36:49 INFO  compiling root (1 scala source)
+2025.09.24 12:36:49 INFO  time: compiled root in 0.26s
+2025.09.24 12:37:07 INFO  compiling root (1 scala source)
+2025.09.24 12:37:07 INFO  time: compiled root in 0.25s
+2025.09.24 12:37:16 INFO  compiling root (1 scala source)
+2025.09.24 12:37:16 INFO  time: compiled root in 0.23s
+2025.09.24 12:37:28 INFO  compiling root (1 scala source)
+2025.09.24 12:37:28 INFO  time: compiled root in 0.12s
+2025.09.24 12:37:43 INFO  compiling root (1 scala source)
+2025.09.24 12:37:43 INFO  time: compiled root in 0.24s
+2025.09.24 12:38:07 INFO  compiling root (1 scala source)
+2025.09.24 12:38:07 INFO  time: compiled root in 0.12s
+2025.09.24 12:38:16 INFO  compiling root (1 scala source)
+2025.09.24 12:38:16 INFO  time: compiled root in 0.26s
+2025.09.24 12:38:59 INFO  compiling root (1 scala source)
+2025.09.24 12:38:59 INFO  time: compiled root in 0.23s
+2025.09.24 12:40:02 INFO  compiling root (1 scala source)
+2025.09.24 12:40:02 INFO  time: compiled root in 0.24s
+Sept. 24, 2025 12:40:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 3984
+2025.09.24 12:40:34 INFO  compiling root (1 scala source)
+2025.09.24 12:40:34 INFO  time: compiled root in 0.25s
+2025.09.24 12:41:19 INFO  compiling root (1 scala source)
+2025.09.24 12:41:19 INFO  time: compiled root in 0.25s
+2025.09.24 12:41:46 INFO  compiling root (1 scala source)
+2025.09.24 12:41:46 INFO  time: compiled root in 0.22s
+Sept. 24, 2025 12:42:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 4255
+2025.09.24 12:42:40 INFO  compiling root (1 scala source)
+2025.09.24 12:42:40 INFO  time: compiled root in 0.28s
+2025.09.24 12:43:38 INFO  compiling root (1 scala source)
+2025.09.24 12:43:38 INFO  time: compiled root in 0.31s
+2025.09.24 12:44:18 INFO  compiling root (1 scala source)
+2025.09.24 12:44:18 INFO  time: compiled root in 0.25s
+2025.09.24 12:44:37 INFO  compiling root (1 scala source)
+2025.09.24 12:44:37 INFO  time: compiled root in 0.2s
+2025.09.24 12:45:08 INFO  compiling root (1 scala source)
+2025.09.24 12:45:08 INFO  time: compiled root in 0.12s
+2025.09.24 12:45:28 INFO  compiling root (1 scala source)
+2025.09.24 12:45:28 INFO  time: compiled root in 0.13s
+2025.09.24 12:46:02 INFO  compiling root (1 scala source)
+2025.09.24 12:46:02 INFO  time: compiled root in 0.13s
+2025.09.24 12:46:41 INFO  compiling root (1 scala source)
+2025.09.24 12:46:41 INFO  time: compiled root in 0.13s
+2025.09.24 12:46:59 INFO  compiling root (1 scala source)
+2025.09.24 12:46:59 INFO  time: compiled root in 0.11s
+2025.09.24 12:47:23 INFO  compiling root (1 scala source)
+2025.09.24 12:47:23 INFO  time: compiled root in 0.22s
+2025.09.24 12:47:45 INFO  compiling root (1 scala source)
+2025.09.24 12:47:45 INFO  time: compiled root in 0.21s
+2025.09.24 12:48:04 INFO  compiling root (1 scala source)
+2025.09.24 12:48:04 INFO  time: compiled root in 0.28s
+Exception in thread "pool-11-thread-2" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:207)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Sept. 24, 2025 12:49:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 5051
+2025.09.24 12:49:18 INFO  compiling root (1 scala source)
+2025.09.24 12:49:18 INFO  time: compiled root in 0.3s
+2025.09.24 12:49:33 INFO  compiling root (1 scala source)
+2025.09.24 12:49:33 INFO  time: compiled root in 0.22s
+Sept. 24, 2025 12:49:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 5111
+2025.09.24 12:50:32 INFO  compiling root (1 scala source)
+2025.09.24 12:50:32 INFO  time: compiled root in 0.25s
+2025.09.24 12:50:39 INFO  compiling root (1 scala source)
+2025.09.24 12:50:39 INFO  time: compiled root in 0.22s
+2025.09.24 12:51:29 INFO  compiling root (1 scala source)
+2025.09.24 12:51:29 INFO  time: compiled root in 0.13s
+2025.09.24 12:52:02 INFO  compiling root (1 scala source)
+2025.09.24 12:52:02 INFO  time: compiled root in 0.24s
+2025.09.24 12:52:05 INFO  compiling root (1 scala source)
+2025.09.24 12:52:05 INFO  time: compiled root in 0.23s
+2025.09.24 12:52:12 INFO  compiling root (1 scala source)
+2025.09.24 12:52:12 INFO  time: compiled root in 0.22s
+Sept. 24, 2025 12:52:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 5706
+Sept. 24, 2025 12:52:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 5795
+2025.09.24 12:52:45 INFO  compiling root (1 scala source)
+2025.09.24 12:52:45 INFO  time: compiled root in 0.12s
+2025.09.24 12:52:49 INFO  compiling root (1 scala source)
+2025.09.24 12:52:49 INFO  time: compiled root in 0.12s
+Sept. 24, 2025 12:52:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 5833
+2025.09.24 12:53:35 INFO  compiling root (1 scala source)
+2025.09.24 12:53:35 INFO  time: compiled root in 0.16s
+2025.09.24 12:53:38 INFO  compiling root (1 scala source)
+2025.09.24 12:53:38 INFO  time: compiled root in 0.13s
+2025.09.24 12:54:17 INFO  compiling root (1 scala source)
+2025.09.24 12:54:17 INFO  time: compiled root in 0.23s
+2025.09.24 12:57:23 INFO  compiling root (1 scala source)
+2025.09.24 12:57:23 INFO  time: compiled root in 0.25s
+2025.09.24 12:59:00 INFO  compiling root (1 scala source)
+2025.09.24 12:59:00 INFO  time: compiled root in 0.24s
+2025.09.24 13:00:14 INFO  compiling root (1 scala source)
+2025.09.24 13:00:14 INFO  time: compiled root in 0.27s
+2025.09.24 13:00:50 INFO  compiling root (1 scala source)
+2025.09.24 13:00:50 INFO  time: compiled root in 0.24s
+2025.09.24 13:01:16 INFO  compiling root (1 scala source)
+2025.09.24 13:01:16 INFO  time: compiled root in 0.23s
+Sept. 24, 2025 1:04:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 6332
+Sept. 24, 2025 1:04:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 6340
+2025.09.24 13:04:48 INFO  compiling root (1 scala source)
+2025.09.24 13:04:48 INFO  time: compiled root in 0.28s
+2025.09.24 13:04:59 INFO  compiling root (1 scala source)
+2025.09.24 13:04:59 INFO  time: compiled root in 0.28s
+2025.09.24 13:05:51 INFO  compiling root (1 scala source)
+2025.09.24 13:05:51 INFO  time: compiled root in 0.55s
+2025.09.24 13:05:59 INFO  compiling root (1 scala source)
+2025.09.24 13:05:59 INFO  time: compiled root in 0.3s
+2025.09.24 13:07:03 INFO  compiling root (1 scala source)
+2025.09.24 13:07:03 INFO  time: compiled root in 0.42s
+Sept. 24, 2025 1:07:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 6740
+2025.09.24 13:07:21 INFO  compiling root (1 scala source)
+2025.09.24 13:07:21 INFO  time: compiled root in 0.37s
+2025.09.24 13:07:27 INFO  compiling root (1 scala source)
+2025.09.24 13:07:27 INFO  time: compiled root in 0.47s
+2025.09.24 13:07:57 INFO  compiling root (1 scala source)
+2025.09.24 13:07:57 INFO  time: compiled root in 0.34s
+Sept. 24, 2025 1:08:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 6869
+Sept. 24, 2025 1:08:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 6881
+Sept. 24, 2025 1:08:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 6908
+2025.09.24 13:08:14 INFO  compiling root (1 scala source)
+2025.09.24 13:08:14 INFO  time: compiled root in 0.34s
+2025.09.24 13:08:27 INFO  compiling root (1 scala source)
+2025.09.24 13:08:27 INFO  time: compiled root in 0.34s
+2025.09.24 13:08:38 INFO  compiling root (1 scala source)
+2025.09.24 13:08:38 INFO  time: compiled root in 0.36s
+2025.09.24 13:08:44 INFO  compiling root (1 scala source)
+2025.09.24 13:08:44 INFO  time: compiled root in 0.34s
+2025.09.24 13:10:00 INFO  compiling root (1 scala source)
+2025.09.24 13:10:00 INFO  time: compiled root in 0.35s
+2025.09.24 13:10:07 INFO  compiling root (1 scala source)
+2025.09.24 13:10:07 INFO  time: compiled root in 0.38s
+Sept. 24, 2025 1:11:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 7291
+2025.09.24 13:11:19 INFO  compiling root (1 scala source)
+2025.09.24 13:11:19 INFO  Created report: Optional.empty
+2025.09.24 13:11:19 INFO  Bad symbolic reference. A signature in <WORKSPACE>\src\main\scala\scala\Overview.scala
+refers to MyL... (full report at: "D:\HSG\hsg-fs25-ap\scala\learning-scala\.metals\.reports\bloop\2025-09-24\r_Bad symbolic referen..._13-11-19-578.md")
+2025.09.24 13:11:19 INFO  time: compiled root in 0.2s
+2025.09.24 13:11:19 WARN  Could not load snapshot text for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala
+2025.09.24 13:11:24 WARN  Could not load snapshot text for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala
+2025.09.24 13:11:24 INFO  compiling root (1 scala source)
+2025.09.24 13:11:24 INFO  time: compiled root in 0.23s
+2025.09.24 13:11:25 WARN  Could not load snapshot text for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala
+2025.09.24 13:11:26 WARN  Could not load snapshot text for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala
+2025.09.24 13:11:27 WARN  Could not load snapshot text for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala
+2025.09.24 13:11:27 WARN  Could not load snapshot text for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala
+2025.09.24 13:11:27 INFO  compiling root (1 scala source)
+2025.09.24 13:11:27 INFO  time: compiled root in 0.36s
+2025.09.24 13:11:29 INFO  compiling root (1 scala source)
+2025.09.24 13:11:30 INFO  Created report: Optional[file:///D:/HSG/hsg-fs25-ap/scala/learning-scala/src/main/scala/scala/Overview.scala]
+2025.09.24 13:11:30 INFO  empty definition using pc, found symbol in pc:  (full report at: "D:\HSG\hsg-fs25-ap\scala\learning-scala\.metals\.reports\metals-full\2025-09-24\r_empty-definition_(root)_13-11-30-080.md")
+2025.09.24 13:11:29 INFO  time: compiled root in 0.54s
+2025.09.24 13:11:34 WARN  Could not load snapshot text for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala
+2025.09.24 13:11:34 WARN  Could not load snapshot text for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala
+2025.09.24 13:11:34 WARN  Could not load snapshot text for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala
+2025.09.24 13:11:34 WARN  Could not load snapshot text for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala
+2025.09.24 13:11:34 WARN  Could not load snapshot text for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala
+2025.09.24 13:11:34 WARN  Could not load snapshot text for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala
+2025.09.24 13:11:34 WARN  Could not load snapshot text for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala
+2025.09.24 13:11:34 WARN  Could not load snapshot text for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala
+2025.09.24 13:11:34 INFO  compiling root (1 scala source)
+2025.09.24 13:11:34 INFO  time: compiled root in 0.36s
+2025.09.24 13:11:47 INFO  compiling root (1 scala source)
+2025.09.24 13:11:47 INFO  time: compiled root in 0.29s
+2025.09.24 13:12:19 INFO  compiling root (1 scala source)
+2025.09.24 13:12:19 INFO  time: compiled root in 0.3s
+2025.09.24 13:13:38 INFO  compiling root (1 scala source)
+2025.09.24 13:13:38 INFO  time: compiled root in 0.19s
+2025.09.24 13:13:45 INFO  compiling root (1 scala source)
+2025.09.24 13:13:45 INFO  time: compiled root in 0.15s
+2025.09.24 13:13:51 INFO  compiling root (1 scala source)
+2025.09.24 13:13:51 INFO  time: compiled root in 0.34s
+2025.09.24 13:13:55 INFO  compiling root (1 scala source)
+2025.09.24 13:13:55 INFO  Created report: Optional[file:///D:/HSG/hsg-fs25-ap/scala/learning-scala/src/main/scala/scala/Overview.scala]
+2025.09.24 13:13:55 INFO  empty definition using pc, found symbol in pc:  (full report at: "D:\HSG\hsg-fs25-ap\scala\learning-scala\.metals\.reports\metals-full\2025-09-24\r_empty-definition_(root)_13-13-55-521.md")
+2025.09.24 13:13:55 INFO  time: compiled root in 0.31s
+2025.09.24 13:13:59 INFO  compiling root (1 scala source)
+2025.09.24 13:13:59 INFO  time: compiled root in 0.32s
+Sept. 24, 2025 1:14:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 8023
+2025.09.24 13:14:56 INFO  compiling root (1 scala source)
+2025.09.24 13:14:56 INFO  time: compiled root in 0.33s
+Sept. 24, 2025 1:15:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 8113
+2025.09.24 13:15:09 INFO  compiling root (1 scala source)
+2025.09.24 13:15:09 INFO  time: compiled root in 0.28s
+2025.09.24 13:15:30 INFO  compiling root (1 scala source)
+2025.09.24 13:15:30 INFO  time: compiled root in 0.31s
+2025.09.24 13:15:41 INFO  compiling root (1 scala source)
+2025.09.24 13:15:41 INFO  time: compiled root in 0.41s
+2025.09.24 13:15:52 INFO  compiling root (1 scala source)
+2025.09.24 13:15:52 INFO  time: compiled root in 0.31s
+2025.09.24 13:16:12 INFO  compiling root (1 scala source)
+2025.09.24 13:16:12 INFO  time: compiled root in 0.37s
+2025.09.24 13:17:24 INFO  compiling root (1 scala source)
+2025.09.24 13:17:24 INFO  time: compiled root in 0.37s
+2025.09.24 13:17:33 INFO  compiling root (1 scala source)
+2025.09.24 13:17:33 INFO  time: compiled root in 0.31s
+2025.09.24 13:18:38 INFO  compiling root (1 scala source)
+2025.09.24 13:18:38 INFO  time: compiled root in 0.4s
+2025.09.24 13:18:50 INFO  compiling root (1 scala source)
+2025.09.24 13:18:50 INFO  time: compiled root in 0.29s
+Sept. 24, 2025 1:18:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 8772
+Sept. 24, 2025 1:18:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 8773
+Sept. 24, 2025 1:18:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 8774
+Sept. 24, 2025 1:18:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 8775
+Sept. 24, 2025 1:18:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 8777
+Sept. 24, 2025 1:18:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 8778
+Sept. 24, 2025 1:18:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 8779
+Sept. 24, 2025 1:18:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 8780
+Sept. 24, 2025 1:18:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 8781
+Sept. 24, 2025 1:18:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 8783
+Sept. 24, 2025 1:18:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 8784
+Sept. 24, 2025 1:18:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 8786
+2025.09.24 13:18:56 INFO  compiling root (1 scala source)
+2025.09.24 13:18:56 INFO  time: compiled root in 0.28s
+2025.09.24 13:19:45 INFO  compiling root (1 scala source)
+2025.09.24 13:19:45 INFO  time: compiled root in 0.35s
+2025.09.24 13:20:02 INFO  compiling root (1 scala source)
+2025.09.24 13:20:02 INFO  time: compiled root in 0.3s
+2025.09.24 13:20:20 INFO  compiling root (1 scala source)
+2025.09.24 13:20:20 INFO  time: compiled root in 0.28s
+2025.09.24 13:21:57 INFO  compiling root (1 scala source)
+2025.09.24 13:21:57 INFO  time: compiled root in 0.32s
+Sept. 24, 2025 1:22:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 9364
+2025.09.24 13:22:41 INFO  compiling root (1 scala source)
+2025.09.24 13:22:41 INFO  time: compiled root in 0.33s
+2025.09.24 13:23:06 INFO  compiling root (1 scala source)
+2025.09.24 13:23:06 INFO  time: compiled root in 0.32s
+Exception in thread "pool-11-thread-3" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:207)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Exception in thread "pool-11-thread-4" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:207)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2025.09.24 13:23:34 INFO  compiling root (1 scala source)
+2025.09.24 13:23:34 INFO  time: compiled root in 0.29s
+Sept. 24, 2025 1:23:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 9634
+2025.09.24 13:23:54 INFO  compiling root (1 scala source)
+2025.09.24 13:23:54 INFO  time: compiled root in 0.32s
+2025.09.24 13:29:58 INFO  Shutting down server
+2025.09.24 13:29:58 INFO  shutting down Metals
+2025.09.24 13:29:58 INFO  Shut down connection with build server.
+2025.09.24 13:29:58 INFO  Shut down connection with build server.
+2025.09.24 13:29:58 INFO  Exiting server

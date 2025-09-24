@@ -1,0 +1,4 @@
+[warn] scala3-library_3-3.3.1-sources.jar no longer exists at \Users\jahrimgabriele.cesario\Library\Caches\Coursier\v1\https\repo1.maven.org\maven2\org\scala-lang\scala3-library_3\3.3.1\scala3-library_3-3.3.1-sources.jar
+[debug] not up to date. inChanged = false, force = false
+[debug] Updating ProjectRef(uri("file:/D:/HSG/hsg-fs25-ap/scala/learning-scala/"), "root")...
+[debug] Done updating ProjectRef(uri("file:/D:/HSG/hsg-fs25-ap/scala/learning-scala/"), "root")
