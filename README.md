@@ -31,6 +31,10 @@ HSG Fallsemester 2025 Course **Advanced Programming**.
 
 
 ### 2.1 Julia >> [Files](./julia) <a id="21-julia"></a>
+```julia
+# start programm
+julia --project=. "pfad/02.jl"
+```
 
 ### 2.2 Python >> [Files](./python) <a id="22-python"></a>
 
