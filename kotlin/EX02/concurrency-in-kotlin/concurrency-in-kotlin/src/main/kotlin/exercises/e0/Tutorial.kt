@@ -29,7 +29,7 @@ object Tutorial {
         println("[After Moving] ${robot.body}")
 
         println("[Before Switching] ${robot.led}")
-        robot.led.switch(on = true, color = Color.RED)
+        robot.led.switch(on = true, color = Color.GREEN)
         println("[After Switching] ${robot.led}")
 
         println("[Before Rotating] ${robot.body}")
