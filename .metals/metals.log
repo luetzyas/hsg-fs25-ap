@@ -2197,3 +2197,9 @@ WARNUNG: Unmatched cancel notification for request id 5
 2025.09.24 16:17:38 WARN  Build server is not auto-connectable.
 Sept. 24, 2025 4:22:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFORMATION: Unsupported notification method: $/setTrace
+2025.10.03 13:15:31 INFO  Started: Metals version 1.6.2 in folders 'D:\HSG\hsg-fs25-ap' for client Visual Studio Code 1.104.1.
+2025.10.03 13:15:35 WARN  no build tool detected in workspace 'D:\HSG\hsg-fs25-ap'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2025.10.03 13:15:36 WARN  Build server is not auto-connectable.
+2025.10.03 13:16:41 INFO  Shutting down server
+2025.10.03 13:16:41 INFO  shutting down Metals
+2025.10.03 13:16:41 INFO  Exiting server
