@@ -28,7 +28,7 @@ HSG Fallsemester 2025 Course **Advanced Programming**.
 - Typ-Systeme (Java, Scala, TypeScript, Rust, Idris)
 - Generative AI für Programmierung:contentReference[oaicite:2]{index=2}
 - Vergleich und Analyse verschiedener Programmiersprachen
-
+ 
 
 ### 2.1 Julia >> [Files](./julia) <a id="21-julia"></a>
 ```julia
