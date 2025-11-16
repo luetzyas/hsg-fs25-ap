@@ -7,7 +7,7 @@ import java.awt.Color
 
 fun main() {
     Scenarios.OneRobotOneLight.runScenario(
-        behavior = CallbackSolution.blinking,
+        behavior = CallbackSolution.blinkingAndFollowingTheLight,
         width = 600.0,
         height = 600.0,
     )

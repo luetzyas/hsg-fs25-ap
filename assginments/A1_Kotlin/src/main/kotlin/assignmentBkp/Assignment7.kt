@@ -1,6 +1,5 @@
 package assignmentBkp
 
-
 import kotlinx.coroutines.ObsoleteCoroutinesApi
 import kotlinx.coroutines.channels.SendChannel
 import labutils.Scenarios
@@ -13,16 +12,16 @@ import kotlin.math.sin
 
 fun main() {
     Scenarios.Assignment.runScenario(
-        redBehavior = Assignment.redBehavior,
-        greenBehavior = Assignment.greenBehavior,
-        blueBehavior = Assignment.blueBehavior,
+        redBehavior = Assignment7.redBehavior,
+        greenBehavior = Assignment7.greenBehavior,
+        blueBehavior = Assignment7.blueBehavior,
         width = 450.0,
         height = 400.0
     )
 }
 
 @OptIn(ObsoleteCoroutinesApi::class)
-object Assignment {
+object Assignment7 {
     // SCENARIO
     // Three colored robots wants to reach the light of their own color:
     // - The red robot wants to reach the red light.
