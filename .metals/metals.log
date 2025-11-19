@@ -2211,3 +2211,32 @@ INFORMATION: Unsupported notification method: $/setTrace
 2025.11.16 11:44:34 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
 2025.11.16 11:44:34 WARN  no build tool detected in workspace 'D:\HSG\hsg-fs25-ap'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
 2025.11.16 11:44:34 WARN  Build server is not auto-connectable.
+Nov. 16, 2025 3:56:48 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMATION: Unsupported notification method: $/setTrace
+2025.11.16 16:17:37 WARN  no build target for: D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala
+2025.11.16 16:17:37 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.16 16:17:37 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.16 16:17:38 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.16 16:17:41 INFO  time: code lens generation in 2.29s
+2025.11.16 20:45:22 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.16 20:45:22 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.16 20:45:23 WARN  no build target for: D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala
+2025.11.16 20:45:22 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.16 20:45:22 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Nov. 16, 2025 9:39:18 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMATION: Unsupported notification method: $/setTrace
+Nov. 16, 2025 9:40:10 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMATION: Unsupported notification method: $/setTrace
+Nov. 16, 2025 9:40:12 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMATION: Unsupported notification method: $/setTrace
+2025.11.16 21:43:43 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.16 21:43:43 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.16 23:15:27 INFO  Shutting down server
+2025.11.16 23:15:27 INFO  shutting down Metals
+2025.11.16 23:15:27 INFO  Exiting server
+2025.11.19 12:22:32 INFO  Started: Metals version 1.6.3 in folders 'D:\HSG\hsg-fs25-ap' for client Visual Studio Code 1.106.1.
+2025.11.19 12:22:44 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.11.19 12:22:44 WARN  no build tool detected in workspace 'D:\HSG\hsg-fs25-ap'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2025.11.19 12:22:44 WARN  Build server is not auto-connectable.
+Nov. 19, 2025 12:25:42 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMATION: Unsupported notification method: $/setTrace
