@@ -7,13 +7,10 @@ type UnsafeVector<T, N extends Peano> = {
     readonly content: T[]; 
 };
 
-//[] != [1] this is not equal!
 type __check_unsafe_vector__ = TypeEqual<  // This must not be true!!!
-    UnsafeVector<number, Zero>,         // empty vector of numbers
-    UnsafeVector<number, Succ<Zero>>    // vector of numbers with one element
+    UnsafeVector<number, Zero>, 
+    UnsafeVector<number, Succ<Zero>>
 >; 
-type Test1 = {readonly content: number[]}; // equivalent to UnsafeVector<number, Zero>
-type Test2 = {readonly content: number[]}; // equivalent to UnsafeVector<number, Succ<Zero>>
 
 /* PHATHOM TYPES */
 type Phantom<X> = (_: never) => X;
@@ -22,7 +19,7 @@ function phantom<X>(): Phantom<X> { return _ => { throw new Error("Attempted acc
 const phantom_test = phantom<Number>(); // How can we call this function?
 // phantom_test(123);                   // This fails type-checking!
 // phantom_test(undefined);             // Even this fails at type-checking!
-phantom_test(123 as never);          // Oops, you can still do some black magic...
+// phantom_test(123 as never);          // Oops, you can still do some black magic...
 
 /* SAFE VECTORS */
 type SafeVector<T, N extends Peano> = { 
@@ -30,12 +27,10 @@ type SafeVector<T, N extends Peano> = {
     readonly size: Phantom<N>;
 };
 
-type __check_safe_vector__ = TypeEqual<  // It works now! different size
+type __check_safe_vector__ = TypeEqual<  // It works now!
     SafeVector<number, Zero>, 
     SafeVector<number, Succ<Zero>>
 >;
-type Test = {readonly content: number[]; readonly size: Phantom<Zero>}; // equivalent to SafeVector<number, Zero>
-type TestSucc = {readonly content: number[]; readonly size: Phantom<Succ<Zero>>}; // equivalent to SafeVector<number, Succ<Zero>>
 
 /* SAFE VECTOR OPERATIONS */
 function empty<T>(): SafeVector<T, Zero> {
@@ -44,20 +39,17 @@ function empty<T>(): SafeVector<T, Zero> {
         size: phantom<Zero>() 
     } 
 };
-// takes save vector of size N and element of type T, returns safe vector of size N + 1
 function push<T, N extends Peano>(vec: SafeVector<T, N>, top: T): SafeVector<T, Succ<N>> {
     return { 
         content: vec.content.concat([top]), 
-        size: phantom<Succ<N>>() // keep trake of size
+        size: phantom<Succ<N>>() 
     };
 }
-// takes a vector of size N + 1, returns tuple of top element and vector of size N
-// Succ<N> has to be >0 otherwise compiler throws an error
 function pop<T, N extends Peano>(vec: SafeVector<T, Succ<N>>): [T, SafeVector<T, N>] {
     const top: T = vec.content[vec.content.length - 1];
     const rest: SafeVector<T, N> = { 
         content: vec.content.slice(0, vec.content.length - 1),
-        size: phantom<N>() // keep track of size
+        size: phantom<N>()
     };
     return [top, rest];
 }

@@ -4,22 +4,12 @@ type TODO = never;
 const TODO: TODO = "not yet implemented" as never;
 // DONT CHANGE THE ABOVE LINES
 
-/* Peano
-N: 0
-   S N
----
-0: []           0: []
-1: S 0          1: [1]          
-2: S (S 0)      2: [1, 1]
-3: S (S (S 0))  3: [1, 1, 1]
-...             ...
-*/
 type Concat<A extends any[], B extends any[]> = [...A, ...B];
 
 /* PEANO NUMBERS AS TYPES */
-type Peano = 1[]; // A Peano number is the sum of a sequence of 1s.         
-type Zero = [];
-type Succ<N extends Peano> = [1, ...N]; // The successor of a Peano number N is N + 1
+type Peano = TODO;  // A Peano number is the sum of a sequence of 1s.         
+type Zero = TODO;
+type Succ<N extends Peano> = TODO;
 
 type One = Succ<Zero>; 
 type Two = Succ<One>; 
@@ -29,7 +19,7 @@ type __check_peano__ = Assert<[
 ]>;
 
 /* NUMBER TO PEANO NUMBER */
-type ToNumber<N extends Peano> = N["length"]; // get length of list representing Peano number
+type ToNumber<N extends Peano> = TODO;
 
 type __check_to_number__ = Assert<[
     TypeEqual<ToNumber<Zero>, 0>,
@@ -39,7 +29,7 @@ type __check_to_number__ = Assert<[
 ]>;
 
 /* PEANO NUMBER TO NUMBER */
-type ToPeano<I extends number, Result extends Peano = Zero> = ToNumber<Result> extends I ? Result : ToPeano<I, Result>;
+type ToPeano<I extends number, Result extends Peano = Zero> = TODO;
 
 type __check_to_peano__ = Assert<[
     TypeEqual<ToPeano<0>, Zero>,
@@ -50,7 +40,7 @@ type __check_to_peano__ = Assert<[
 ]>; 
 
 /* ADDITION OF PEANO NUMBERS */
-type Add<X extends Peano, Y extends Peano> = [...X, ...Y];
+type Add<X extends Peano, Y extends Peano> = TODO;
 
 type __check_add__ = Assert<[
     TypeEqual<ToNumber<Add<Zero, Zero>>, 0>,
@@ -68,7 +58,7 @@ type LessThan<X extends Peano, Y extends Peano> =
         ? Y extends Zero
             ? false // 0 < 0
             : true  // 0 < Y
-        : X extends Succ<infer PX extends Peano> // x != 0
+        : X extends Succ<infer PX extends Peano>
             ? Y extends Zero
                 ? false // X < 0
                 : Y extends Succ<infer PY extends Peano>
@@ -77,32 +67,17 @@ type LessThan<X extends Peano, Y extends Peano> =
             : never;
             
 type __check_less_than__ = Assert<[
-    Not<LessThan<Zero, Zero>>,  // false
-    LessThan<Zero, One>,        // true
-    Not<LessThan<One, Zero>>,   // false
-    Not<LessThan<One, One>>,    // false
-    LessThan<One, Two>,         // true
-    Not<LessThan<Two, One>>,    // false
-    Not<LessThan<Two, Two>>,    // false
+    Not<LessThan<Zero, Zero>>,
+    LessThan<Zero, One>,
+    Not<LessThan<One, Zero>>,
+    Not<LessThan<One, One>>,
+    LessThan<One, Two>,
+    Not<LessThan<Two, One>>,
+    Not<LessThan<Two, Two>>,
 ]>;
 
 /* FIBONACCI OF PEANO NUMBERS */
-// Fibonacci(0) = 0
-// Fibonacci(1) = 1
-// Fibonacci(N)) = F(n-1) + F(n-2)
-// F(PPN + 2) = F(PPN + 1) + F(PPN)
-type Fibonacci<N extends Peano> = 
-    // Fibonacci(0) = 0
-    N extends Zero
-        ? Zero
-        // Fibonacci(1) = 1
-        : N extends One
-            ? One
-            // Fibonacci(N)) = F(n-1) + F(n-2)
-            : N extends Succ<Succ<infer PPN extends Peano>>
-                // F(PPN + 2) = F(PPN + 1) + F(PPN)
-                ? Add<Fibonacci<Succ<PPN>>, Fibonacci<PPN>>
-                : never;
+type Fibonacci<N extends Peano> = TODO;
 
 type __check_fibonacci__ = Assert<[
     TypeEqual<ToNumber<Fibonacci<ToPeano<0>>>, 0>,

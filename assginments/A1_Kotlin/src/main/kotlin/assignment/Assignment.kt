@@ -65,7 +65,7 @@ object Assignment {
     // *****************************************************
     private fun buildRobotBehavior(currColor: Color, name: String): RobotBehavior = { robot ->
         // trace testing prints
-        val test = false
+        val test = true
         // declared state variables
         var targetLightFound: Point? = null
         var targetLight : Point? = null

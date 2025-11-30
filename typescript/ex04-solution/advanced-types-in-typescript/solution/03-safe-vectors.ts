@@ -3,26 +3,36 @@ import { TypeEqual } from "./01-advanced-types";
 export { Phantom, SafeVectorAlternative as SafeVector };
 
 /* NAIVE SAFE VECTORS */
+// Let's first try a naive implementation. This does not work because 
+// UnsafeVector<T,X> and UnsafeVector<T,Y> both resolve to the same type 
+// { readonly content: T[]; }, for all X and Y.
 type UnsafeVector<T, N extends Peano> = { 
     readonly content: T[]; 
 };
 
-//[] != [1] this is not equal!
-type __check_unsafe_vector__ = TypeEqual<  // This must not be true!!!
-    UnsafeVector<number, Zero>,         // empty vector of numbers
-    UnsafeVector<number, Succ<Zero>>    // vector of numbers with one element
+type __check_unsafe_vector__ = TypeEqual<  // Broken: this must not be true!!!
+    UnsafeVector<number, Zero>, 
+    UnsafeVector<number, Succ<Zero>>
 >; 
-type Test1 = {readonly content: number[]}; // equivalent to UnsafeVector<number, Zero>
-type Test2 = {readonly content: number[]}; // equivalent to UnsafeVector<number, Succ<Zero>>
 
 /* PHATHOM TYPES */
+// We need to keep track of the different X and Y. To do that, we can add a new
+// field, which is only needed at compile-tipe to keep track of N. So, we need a
+// type that 
+// (a) depends on N (to track it)
+// (b) is inaccessible at runtime
+//
+// The type `(never => N)` is perfect for that: it depends on N, but at runtime
+// it is just a function that can never be called, and trying to call it will
+// fail type-checking (at compile-time). We call this a "phantom type", as 
+// normally they are erased at runtime.
 type Phantom<X> = (_: never) => X;
 function phantom<X>(): Phantom<X> { return _ => { throw new Error("Attempted access to a Phantom Type."); } }
 
 const phantom_test = phantom<Number>(); // How can we call this function?
 // phantom_test(123);                   // This fails type-checking!
 // phantom_test(undefined);             // Even this fails at type-checking!
-phantom_test(123 as never);          // Oops, you can still do some black magic...
+// phantom_test(123 as never);          // Oops, you can still do some black magic...
 
 /* SAFE VECTORS */
 type SafeVector<T, N extends Peano> = { 
@@ -30,12 +40,10 @@ type SafeVector<T, N extends Peano> = {
     readonly size: Phantom<N>;
 };
 
-type __check_safe_vector__ = TypeEqual<  // It works now! different size
+type __check_safe_vector__ = TypeEqual<  // Works: they are different!
     SafeVector<number, Zero>, 
     SafeVector<number, Succ<Zero>>
 >;
-type Test = {readonly content: number[]; readonly size: Phantom<Zero>}; // equivalent to SafeVector<number, Zero>
-type TestSucc = {readonly content: number[]; readonly size: Phantom<Succ<Zero>>}; // equivalent to SafeVector<number, Succ<Zero>>
 
 /* SAFE VECTOR OPERATIONS */
 function empty<T>(): SafeVector<T, Zero> {
@@ -44,20 +52,17 @@ function empty<T>(): SafeVector<T, Zero> {
         size: phantom<Zero>() 
     } 
 };
-// takes save vector of size N and element of type T, returns safe vector of size N + 1
 function push<T, N extends Peano>(vec: SafeVector<T, N>, top: T): SafeVector<T, Succ<N>> {
     return { 
         content: vec.content.concat([top]), 
-        size: phantom<Succ<N>>() // keep trake of size
+        size: phantom<Succ<N>>() 
     };
 }
-// takes a vector of size N + 1, returns tuple of top element and vector of size N
-// Succ<N> has to be >0 otherwise compiler throws an error
 function pop<T, N extends Peano>(vec: SafeVector<T, Succ<N>>): [T, SafeVector<T, N>] {
     const top: T = vec.content[vec.content.length - 1];
     const rest: SafeVector<T, N> = { 
         content: vec.content.slice(0, vec.content.length - 1),
-        size: phantom<N>() // keep track of size
+        size: phantom<N>()
     };
     return [top, rest];
 }
@@ -73,11 +78,13 @@ const s1 = push(s0, 10);
 const s2 = push(s1, 20);
 const [top1, s3] = pop(s2);
 const [top2, s4] = pop(s3);
-// const cantPop = pop(s4);  // ERROR
+// const cantPop = pop(s4);               // Compile-time error: pop cannot be applied to an empty vector. Hurray!
 const _20 = get(s2, 1);
-// const cantGetOutOfBound = get(s2, 2);  // ERROR
+// const cantGetOutOfBound = get(s2, 2);  // Compile-time error: index 2 is out of bounds. Hurray!
 
 /* SAFE VECTORS AS A CLASS */
+// Alternatively, we can use a class and information hiding with visibility 
+// modifiers.
 class SafeVectorAlternative<T, N extends Peano> {
     private readonly content: T[]; 
     private readonly phantom?: N = undefined;
@@ -100,7 +107,7 @@ class SafeVectorAlternative<T, N extends Peano> {
     }
 }
 
-type __check_safe_vector_alternative__ = TypeEqual<  // It works now!
+type __check_safe_vector_alternative__ = TypeEqual<  // Works: they are different!
     SafeVectorAlternative<number, Zero>, 
     SafeVectorAlternative<number, Succ<Zero>>
 >;
