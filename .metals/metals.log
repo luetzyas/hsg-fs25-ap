@@ -2250,3 +2250,12 @@ INFORMATION: Unsupported notification method: $/setTrace
 2025.11.26 13:50:16 INFO  Shutting down server
 2025.11.26 13:50:16 INFO  shutting down Metals
 2025.11.26 13:50:16 INFO  Exiting server
+2025.12.04 14:36:24 INFO  Started: Metals version 1.6.4 in folders 'D:\HSG\hsg-fs25-ap' for client Visual Studio Code 1.106.1.
+2025.12.04 14:36:25 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.12.04 14:36:25 WARN  no build tool detected in workspace 'D:\HSG\hsg-fs25-ap'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2025.12.04 14:36:26 WARN  Build server is not auto-connectable.
+Dez. 04, 2025 4:02:05 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMATION: Unsupported notification method: $/setTrace
+2025.12.04 16:16:47 INFO  Shutting down server
+2025.12.04 16:16:47 INFO  shutting down Metals
+2025.12.04 16:16:47 INFO  Exiting server
