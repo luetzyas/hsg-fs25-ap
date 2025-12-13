@@ -1,0 +1,1 @@
+D:\HSG\hsg-fs25-ap\assginments\A4_Rust\target\debug\project.exe: D:\HSG\hsg-fs25-ap\assginments\A4_Rust\src\assignment.rs D:\HSG\hsg-fs25-ap\assginments\A4_Rust\src\lib.rs D:\HSG\hsg-fs25-ap\assginments\A4_Rust\src\main.rs
