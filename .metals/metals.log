@@ -2289,3 +2289,356 @@ INFORMATION: Unsupported notification method: $/setTrace
 2025.12.13 17:58:16 INFO  Shutting down server
 2025.12.13 17:58:16 INFO  shutting down Metals
 2025.12.13 17:58:16 INFO  Exiting server
+2025.12.14 20:56:03 INFO  Started: Metals version 1.6.4 in folders 'D:\HSG\hsg-fs25-ap' for client Visual Studio Code 1.107.0.
+2025.12.14 20:56:04 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.12.14 20:56:04 WARN  no build tool detected in workspace 'D:\HSG\hsg-fs25-ap'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2025.12.14 20:56:04 WARN  Build server is not auto-connectable.
+2025.12.16 12:44:35 INFO  Started: Metals version 1.6.4 in folders 'D:\HSG\hsg-fs25-ap' for client Visual Studio Code 1.107.0.
+2025.12.16 12:44:39 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.12.16 12:44:39 WARN  no build tool detected in workspace 'D:\HSG\hsg-fs25-ap'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2025.12.16 12:44:40 WARN  Build server is not auto-connectable.
+2025.12.16 12:45:27 INFO  Shutting down server
+2025.12.16 12:45:27 INFO  shutting down Metals
+2025.12.16 12:45:27 INFO  Exiting server
+2025.12.16 20:07:19 INFO  Started: Metals version 1.6.4 in folders 'D:\HSG\hsg-fs25-ap' for client Visual Studio Code 1.107.0.
+2025.12.16 20:07:20 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.12.16 20:07:20 WARN  no build tool detected in workspace 'D:\HSG\hsg-fs25-ap'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2025.12.16 20:07:20 WARN  Build server is not auto-connectable.
+2025.12.16 20:07:25 WARN  no build target for: D:\HSG\hsg-fs25-ap\scala\GettingStarted\hello-world\src\main\scala\Main.scala
+2025.12.16 20:07:25 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\GettingStarted\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:07:25 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\GettingStarted\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:07:26 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\GettingStarted\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:07:26 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\GettingStarted\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:07:26 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\GettingStarted\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:07:27 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\GettingStarted\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Dez. 16, 2025 8:07:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 5
+Dez. 16, 2025 8:07:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 6
+Dez. 16, 2025 8:07:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 7
+Dez. 16, 2025 8:07:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 2
+Dez. 16, 2025 8:07:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 10
+2025.12.16 20:07:26 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\GettingStarted\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:07:26 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\GettingStarted\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Dez. 16, 2025 8:07:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 12
+Dez. 16, 2025 8:07:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 13
+Dez. 16, 2025 8:07:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 4
+2025.12.16 20:07:26 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\GettingStarted\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:07:26 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\GettingStarted\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Dez. 16, 2025 8:07:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 14
+Dez. 16, 2025 8:07:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNUNG: Unmatched cancel notification for request id 8
+2025.12.16 20:07:28 INFO  time: code lens generation in 1.53s
+2025.12.16 20:07:28 INFO  time: code lens generation in 1.75s
+2025.12.16 20:07:29 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\GettingStarted\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:07:45 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\GettingStarted\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:07:45 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\GettingStarted\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:11:32 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\GettingStarted\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:11:32 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:11:32 WARN  no build target for: D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala
+2025.12.16 20:11:32 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:11:32 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:11:35 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:11:35 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:11:35 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:11:36 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:11:36 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:11:36 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:11:36 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:11:36 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:11:38 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:11:38 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:11:38 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:11:44 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:11:44 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:11:47 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:11:48 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:11:54 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:11:54 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:11:55 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:11:55 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:11:55 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:11:57 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:11:57 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:12:00 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:12:00 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:12:00 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:12:00 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:12:03 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:12:03 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:12:04 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:12:15 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:12:17 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:12:25 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:12:25 WARN  no build target for: D:\HSG\hsg-fs25-ap\scala\GettingStarted\hello-world\src\main\scala\Main.scala
+2025.12.16 20:12:25 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\GettingStarted\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:12:25 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\GettingStarted\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:12:25 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\GettingStarted\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:12:26 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\GettingStarted\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:40:10 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\GettingStarted\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:40:20 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\GettingStarted\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:40:21 WARN  no build target for: D:\HSG\hsg-fs25-ap\scala\GettingStarted\hello-world\src\main\scala\Main.scala
+2025.12.16 20:40:21 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\GettingStarted\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:40:21 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\GettingStarted\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:40:21 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\GettingStarted\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:40:22 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\GettingStarted\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:40:23 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\GettingStarted\hello-world\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:40:23 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:40:23 WARN  no build target for: D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala
+2025.12.16 20:40:23 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:40:23 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:40:24 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:40:24 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:40:25 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:40:25 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:40:25 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:40:25 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:40:27 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:40:27 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:40:27 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:40:27 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:40:28 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:40:28 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:40:29 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:40:31 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:40:46 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:40:46 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:40:47 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:40:47 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:40:47 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:40:49 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:40:49 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:40:49 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:40:49 INFO  Created report: Optional[file:///D:/HSG/hsg-fs25-ap/scala/gettingstarted_exercises/src/main/scala/Main.scala]
+2025.12.16 20:40:49 INFO  empty definition using pc, found symbol in pc: scala/Unit# (full report at: "D:\HSG\hsg-fs25-ap\.metals\.reports\metals-full\2025-12-16\r_empty-definition_20-40-49-829.md")
+2025.12.16 20:40:49 INFO  empty definition using pc, found symbol in pc: scala/Unit# (full report at: "D:\HSG\hsg-fs25-ap\.metals\.reports\metals-full\2025-12-16\r_empty-definition_20-40-49-829.md")
+2025.12.16 20:40:49 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:40:49 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:40:51 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:40:52 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:41:22 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:41:24 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:41:24 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:41:24 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:41:26 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:41:26 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:41:26 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:41:26 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:41:29 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:41:29 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:41:29 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:41:29 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:41:32 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:41:32 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:41:44 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:41:44 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:41:44 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:41:45 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:41:45 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:41:45 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:41:46 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:41:46 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:41:46 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:41:46 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:41:49 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:41:49 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:41:50 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:41:50 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:41:51 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:41:51 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:45:42 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:45:42 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:45:42 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:45:43 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:46:07 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:46:07 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:46:18 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:46:18 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\BinaryTree.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:46:18 WARN  no build target for: D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\BinaryTree.scala
+2025.12.16 20:46:18 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\BinaryTree.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:46:18 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\BinaryTree.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:46:24 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\BinaryTree.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:46:24 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:46:24 WARN  no build target for: D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala
+2025.12.16 20:46:24 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:46:24 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:46:26 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:46:27 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:46:27 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:46:27 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:46:29 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:46:39 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:46:39 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:46:40 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:46:41 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:46:44 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:46:44 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:46:44 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:46:46 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:46:46 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:46:46 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:47:05 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:47:05 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:47:05 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:47:05 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:47:05 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:47:05 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:47:06 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:47:06 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:47:07 WARN  no build target for: D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala
+2025.12.16 20:47:08 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:47:08 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:47:08 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:47:08 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:47:09 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:47:09 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:47:10 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:47:10 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:47:10 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:47:10 WARN  no build target for: D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala
+2025.12.16 20:47:11 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:47:11 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:47:12 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:47:12 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:47:12 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:47:13 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:47:13 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:48:04 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:48:27 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:48:30 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:48:32 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:48:34 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:48:34 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:48:37 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:48:44 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:48:44 WARN  no build target for: D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala
+2025.12.16 20:48:44 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:48:44 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:48:44 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:48:47 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:48:48 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:48:48 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:48:48 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:48:48 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:48:49 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:48:49 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:48:49 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:48:50 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:48:51 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:48:51 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:48:54 WARN  no build target for: D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala
+2025.12.16 20:48:54 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:48:54 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:48:56 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:48:56 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:50:10 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:50:10 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:50:11 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:50:11 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:50:11 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:50:14 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:50:14 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:50:14 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:50:16 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:50:18 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:50:18 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:50:18 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:50:20 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:50:20 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:50:23 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:50:24 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:50:24 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:50:24 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:50:49 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:50:50 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:50:50 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:50:50 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:51:06 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:51:06 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:51:06 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:51:06 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:51:07 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:51:07 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:51:08 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:51:08 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:51:10 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:51:14 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:51:17 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:51:17 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:51:17 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:51:17 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:51:18 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:51:18 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:51:20 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:51:20 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:51:20 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:51:20 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:51:20 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:51:28 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:51:31 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:51:33 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:52:15 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:52:15 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Exception in thread "pool-169-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2025.12.16 20:52:16 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:52:16 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:52:16 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:52:18 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:52:18 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:52:18 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:52:19 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:52:19 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:52:21 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:53:07 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:53:07 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:53:09 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:53:09 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:53:10 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:53:10 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:53:10 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:53:11 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:53:21 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:53:21 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:53:21 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:53:21 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:53:24 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:53:24 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:53:27 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:53:27 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:53:28 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:53:28 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:53:28 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:53:30 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:53:30 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:53:30 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:53:30 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:53:32 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:53:32 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:53:34 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:53:34 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:53:34 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:53:34 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:53:35 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:53:37 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:53:39 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 20:53:41 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 21:12:48 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 21:12:48 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\learning-scala\src\main\scala\scala\Overview.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.16 21:12:59 INFO  no build target found for D:\HSG\hsg-fs25-ap\scala\gettingstarted_exercises\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.17 09:16:35 INFO  Started: Metals version 1.6.4 in folders 'D:\HSG\hsg-fs25-ap' for client Visual Studio Code 1.107.0.
+2025.12.17 09:16:47 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.12.17 09:16:47 WARN  no build tool detected in workspace 'D:\HSG\hsg-fs25-ap'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2025.12.17 09:16:48 WARN  Build server is not auto-connectable.
